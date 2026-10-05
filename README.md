@@ -1,6 +1,6 @@
 # Protected Management Frames
 
-## Demystifying Protected Management Frames (PMF): A Hands-On 802.11 Analysis
+## Revisiting Protected Management Frames (PMF): A Hands-On 802.11 Analysis
 
 Protected Management Frames (PMF), originally introduced by IEEE 802.11w and later incorporated into the IEEE 802.11 standard, provide protection against attacks that exploit certain unprotected management frames.
 
